@@ -1,4 +1,4 @@
-<style>HI(color:Blue;)</style>
+
 
 # Hi, i'm Selian Tago
 ## A Fullstack Django Web desiner and A social Media Influencer
