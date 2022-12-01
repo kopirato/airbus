@@ -1,6 +1,7 @@
 
 
 # Selian
+$ git clone https://github.com/kopirato/p.selian.wiki.git
 
 <a href="https://twitter.com/Its_Selianfr">
   
