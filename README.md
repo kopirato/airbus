@@ -13,7 +13,7 @@
 </a><br>
 Hi,I'm Selian T, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.
 
-<img align="right" alt="GIF" src=" https://pbs.twimg.com/profile_images/1597974063800094721/4PwWr7AO_400x400.jpg" />
+<img align="right" alt="GIF" src=" " />
 
 
 
