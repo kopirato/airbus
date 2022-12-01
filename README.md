@@ -1,7 +1,7 @@
 
 
 # Selian
-$ git clone https://github.com/kopirato/p.selian.wiki.git
+
 
 <a href="https://twitter.com/Its_Selianfr">
   
@@ -37,7 +37,7 @@ Hi,I'm Selian T, a Web Developer, Chatbot Developer and Cloud Enthusiast.<br>I A
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-require"scientist"
+
 
 
 
