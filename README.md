@@ -1,3 +1,2 @@
-#HI, i'm Selianb  
-`#RRGGBB`
+#HI, i'm Selianb `#0969DA
 ## A Fullstack Django Web desiner and A social Media Influencer
