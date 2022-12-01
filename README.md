@@ -13,6 +13,8 @@
 
 Hi,I'm Selian T🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 
 
 ![Selian](images/avatar.jpg)
