@@ -2,7 +2,7 @@
 
 # Selian
 
-<a href="https://twitter.com/selian">
+<a href="https://twitter.com/Its_Selianfr">
   
   <img align="left" alt="Selian T | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
