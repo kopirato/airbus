@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/Selian/">
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 </a><br>
-Hi,I'm Selian T, a Web Developer, Chatbot Developer and Cloud Enthusiast.<br> Apart from that I love getting involved in Competitive Programming and Problem Solving.
+Hi,I'm Selian T, a Web Developer, Chatbot Developer and Cloud Enthusiast.<br>I Also love getting involved in Competitive Programming and Problem Solving.
 
 
 
