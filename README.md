@@ -17,10 +17,10 @@ Hi,I'm Selian T, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart 
 
 
 
-- 🌱 I’m currently learning Django
-- - 👯 Part of Developer Community.
-- - 💬 Ask me about anything , Would love to answer them.✌
-- - 📫 How to reach me: Any of the Social-Media Platform 
+-  I’m currently learning Django
+- - Part of Developer Community.
+- - Ask me about anything , Would love to answer them.✌
+- -  How to reach me: Any of the Social-Media Platform 
 
 **Community**
 - Coding Ninja
