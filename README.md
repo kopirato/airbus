@@ -1,7 +1,7 @@
 
 
 # SELIAN
-[link](https://github.com/kopirato/p.selian/blob/3c6f065d541f402b41f9aee9aed39c8bc363e0e9/projects/.projects)
+
 
 <a href="https://twitter.com/Its_Selianfr">
   
